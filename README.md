@@ -1,6 +1,5 @@
 ### Hi there 👋
 - 🌱 I’m currently learning C# ,JAVA, UML
-- 🔭 I’m currently working on 3 new Websites and a Game
 - 📫 How to reach me: https://www.linkedin.com/in/fadwa-el-alaoui-0148a3211/
 <table width="800px">
 <tr>
