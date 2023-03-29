@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🌱 I’m currently learning C# ,JAVA, UML
 - 📫 How to reach me: https://www.linkedin.com/in/fadwa-el-alaoui-0148a3211/
 <table width="800px">
 <tr>
